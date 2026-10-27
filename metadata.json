@@ -1,0 +1,8 @@
+{
+  "name": "Remix NẾU LÀ BẠN?",
+  "description": "Game tương tác tình huống xã hội bằng AI — Đưa ra quyết định, giải mã hậu quả \u0026 khám phá bản thân.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
